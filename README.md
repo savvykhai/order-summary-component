@@ -6,8 +6,8 @@
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/savvykhai/employee-profile-card.git)
-- Live Site URL: [live Site URL](https://employee-profile-card-a5axbtzgz-savvykhai.vercel.app)
+- Solution URL: [Solution URL](https://github.com/savvykhai/order-summary-component.git)
+- Live Site URL: [live Site URL](https://order-summary-component-pl5j2x3lq-savvykhai.vercel.app)
 
 ### Built with
 
