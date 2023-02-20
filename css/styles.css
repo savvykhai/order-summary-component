@@ -223,8 +223,8 @@ button {
     }
 }
 
+
 .footer {
-    width: 100%;
     position: sticky;
     bottom: 0;
     background-color: #000;
@@ -232,4 +232,5 @@ button {
     padding: 5px;
     z-index: 1;
     text-align: center;
+    width: 100%;
 }
