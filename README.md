@@ -7,7 +7,7 @@
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/savvykhai/order-summary-component.git)
-- Live Site URL: [live Site URL](https://order-summary-component-pl5j2x3lq-savvykhai.vercel.app)
+- Live Site URL: [live Site URL](https://order-summary-component-jeg99jeka-savvykhai.vercel.app)
 
 ### Built with
 
